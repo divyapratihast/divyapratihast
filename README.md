@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyapratihast
-- 👀 I’m Fullstack Developer.
+- 👀 I’m a Fullstack Developer.
 
 
 <!---
